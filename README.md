@@ -2,7 +2,7 @@
 
 TweenJS is a simple tweening library for use in Javascript. It was developed to integrate well with the EaselJS library,
 but is not dependent on or specific to it (though it uses the same Ticker and Event classes by default). It supports
-tweening of both numeric object properties & CSS style properties.
+tweening of both numeric object properties & CSS style properties. test.
 
 ## Example
 The API is simple but very powerful, making it easy to create complex tweens by chaining commands.
