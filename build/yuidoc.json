@@ -1,13 +1,18 @@
 {
-	"source": [
-		"../src/createjs/utils/extend.js",
-		"../src/createjs/utils/promote.js",
-		"../src/createjs/events/Event.js",
-		"../src/createjs/events/EventDispatcher.js",
-		"../src/createjs/utils/Ticker.js",
-		"../src/tweenjs/Tween.js",
-		"../src/tweenjs/Timeline.js",
-		"../src/tweenjs/MotionGuidePlugin.js",
-		"../src/tweenjs/version.js"
-	],
+  "name": "YUIDoc",
+  "description": "YUIDoc documentation tool written in JavaScript",
+  "version": "0.2.38",
+  "url": "http://yuilibrary.com/projects/yuidoc",
+  "logo": "http://yuilibrary.com/img/yui-logo.png",
+  "options": {
+    "external": {
+      "data": "http://yuilibrary.com/yui/docs/api/data.json"
+    },
+    "linkNatives": "true",
+    "attributesEmit": "true",
+    "paths": [
+      "./src/createjs"
+    ],
+    "outdir": "./out"
+  }
 }
