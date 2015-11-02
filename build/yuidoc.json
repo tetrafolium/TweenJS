@@ -7,10 +7,7 @@
 		"../src/createjs/utils/Ticker.js",
 		"../src/tweenjs/Tween.js",
 		"../src/tweenjs/Timeline.js",
-		"../src/tweenjs/Ease.js",
 		"../src/tweenjs/MotionGuidePlugin.js",
 		"../src/tweenjs/version.js"
 	],
-
-	"docs_out_path":"./output/TweenJSDocs/"
 }
